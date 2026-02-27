@@ -8,7 +8,7 @@
 > - 💎 专属技术支持和优化服务
 > - 📈 更高的调用配额和性能保障
 > 
-> **[点击了解专业版详情](https://www.aizhs.top)**
+> **[点击了解专业版详情](https://www.aizhs.top/learn-ai)**
 
 这是从 coze_zhs_py 项目中提取的公共 API 接口项目。
 
