@@ -950,4 +950,29 @@ TOKEN_BASE_MULTIPLIER=2.0
 2. WebSocket接口支持心跳保持连接
 3. 大部分接口会自动扣减用户Token
 4. 所有操作都会记录到数据库
+
+---
+
+## 联系我们
+
+### 吉林省爱智汇人工智能科技有限公司
+
+**地址**：长春市高新区越达路107号 人工智能人才孵化基地
+
+**电话**：
+- 18643389808
+
+**邮箱**：
+- 502319984@qq.com
+- lizong@aizhs.top
+
+**官方应用**：
+
+![官方应用](https://aizhs.top/footer/erweima/footer-icon-2.png)
+
+**联系我们**：
+
+![联系我们](https://aizhs.top/footer/erweima/footer-icon-3.png)
+
+**官方网站**：https://www.aizhs.top
 5. 支持通过公共Socket接收实时进度消息
