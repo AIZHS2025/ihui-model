@@ -950,6 +950,7 @@ TOKEN_BASE_MULTIPLIER=2.0
 2. WebSocket接口支持心跳保持连接
 3. 大部分接口会自动扣减用户Token
 4. 所有操作都会记录到数据库
+5. 支持通过公共Socket接收实时进度消息
 
 ---
 
@@ -968,11 +969,10 @@ TOKEN_BASE_MULTIPLIER=2.0
 
 **官方应用**：
 
-![官方应用](https://aizhs.top/footer/erweima/footer-icon-2.png)
+<img src="https://aizhs.top/footer/erweima/footer-icon-2.png" alt="官方应用" width="240" height="240">
 
 **联系我们**：
 
-![联系我们](https://aizhs.top/footer/erweima/footer-icon-3.png)
+<img src="https://aizhs.top/footer/erweima/footer-icon-3.png" alt="联系我们" width="240" height="240">
 
 **官方网站**：https://www.aizhs.top
-5. 支持通过公共Socket接收实时进度消息
